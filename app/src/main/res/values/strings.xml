@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Conta Bancaria</string>
+    <string name="autor">Leudvan Guedes</string>
+    <string name="ra">meu ra</string>
+    <string name="nome_cliente">Nome:</string>
+    <string name="num_conta">Número da Conta:</string>
+    <string name="cadastrar">Cadastrar-se</string>
+
+    <string name="conta_poupanca">Conta Poupança</string>
+    <string name="conta_especial">Conta Especial</string>
+    <string name="saldo">Saldo:</string>
+    <string name="moeda">R$</string>
+    <string name="valor">Valor:</string>
+    <string name="depositar">Depositar</string>
+    <string name="sacar">Sacar</string>
+    <string name="investimento">Verificar Investimento</string>
+    <string name="projecao">No próximo mês você terá:</string>
+
+    <string name="erro_nome">Insira um nome!</string>
+    <string name="erro_numConta">Insira um número para a conta!</string>
+</resources>
